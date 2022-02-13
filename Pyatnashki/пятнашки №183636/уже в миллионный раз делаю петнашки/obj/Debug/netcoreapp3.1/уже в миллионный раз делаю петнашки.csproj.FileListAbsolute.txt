@@ -1,0 +1,39 @@
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.exe
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.deps.json
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.runtimeconfig.json
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.runtimeconfig.dev.json
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.dll
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.pdb
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.csproj.AssemblyReference.cache
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки_MarkupCompile.cache
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки_MarkupCompile.lref
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.g.resources
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.AssemblyInfoInputs.cache
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.AssemblyInfo.cs
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.csproj.CoreCompileInputs.cache
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.dll
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.pdb
+D:\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.genruntimeconfig.cache
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.exe
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.deps.json
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.runtimeconfig.json
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.runtimeconfig.dev.json
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.dll
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\bin\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.pdb
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.csproj.AssemblyReference.cache
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\App.g.cs
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки_MarkupCompile.cache
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки_MarkupCompile.lref
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.g.resources
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.AssemblyInfoInputs.cache
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.AssemblyInfo.cs
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.csproj.CoreCompileInputs.cache
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.dll
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.pdb
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.genruntimeconfig.cache
+D:\2 курс программы\Pyatnashki\пятнашки №183636\уже в миллионный раз делаю петнашки\obj\Debug\netcoreapp3.1\уже в миллионный раз делаю петнашки.GeneratedMSBuildEditorConfig.editorconfig
