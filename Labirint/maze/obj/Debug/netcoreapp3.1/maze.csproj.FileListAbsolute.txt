@@ -1,0 +1,57 @@
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.exe
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.deps.json
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.json
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.dev.json
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.dll
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.pdb
+D:\Labirint\maze\bin\Debug\netcoreapp3.1\ru\maze.resources.dll
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.AssemblyReference.cache
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Form1.resources
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Properties.Resources.resources
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Form1.ru.resources
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.GenerateResource.cache
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfoInputs.cache
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfo.cs
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.CoreCompileInputs.cache
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\ru\maze.resources.dll
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.dll
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.pdb
+D:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.genruntimeconfig.cache
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.exe
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.deps.json
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.json
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.dev.json
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.dll
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\maze.pdb
+E:\Labirint\maze\bin\Debug\netcoreapp3.1\ru\maze.resources.dll
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csprojAssemblyReference.cache
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Form1.resources
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Properties.Resources.resources
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Form1.ru.resources
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.GenerateResource.cache
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfoInputs.cache
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfo.cs
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.CoreCompileInputs.cache
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\ru\maze.resources.dll
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.dll
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.pdb
+E:\Labirint\maze\obj\Debug\netcoreapp3.1\maze.genruntimeconfig.cache
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\maze.exe
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\maze.deps.json
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.json
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.dev.json
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\maze.dll
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\maze.pdb
+D:\2 курс программы\Labirint\maze\bin\Debug\netcoreapp3.1\ru\maze.resources.dll
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.AssemblyReference.cache
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Form1.resources
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Properties.Resources.resources
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.Form1.ru.resources
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.GenerateResource.cache
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfoInputs.cache
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfo.cs
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.csproj.CoreCompileInputs.cache
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\ru\maze.resources.dll
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.dll
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.pdb
+D:\2 курс программы\Labirint\maze\obj\Debug\netcoreapp3.1\maze.genruntimeconfig.cache
