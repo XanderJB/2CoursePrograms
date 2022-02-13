@@ -1,0 +1,50 @@
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\bin\Debug\PIngPong.exe.config
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\bin\Debug\PIngPong.exe
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\bin\Debug\PIngPong.pdb
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.csprojAssemblyReference.cache
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.Form1.resources
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.Properties.Resources.resources
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.GenerateResource.cache
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.CoreCompileInputs.cache
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.exe
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.pdb
+C:\Users\306-6\Desktop\PIngPong\PIngPong\bin\Debug\PIngPong.exe.config
+C:\Users\306-6\Desktop\PIngPong\PIngPong\bin\Debug\PIngPong.exe
+C:\Users\306-6\Desktop\PIngPong\PIngPong\bin\Debug\PIngPong.pdb
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.csprojAssemblyReference.cache
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.Form1.resources
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.Properties.Resources.resources
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.GenerateResource.cache
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.CoreCompileInputs.cache
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.exe
+C:\Users\306-6\Desktop\PIngPong\PIngPong\obj\Debug\PIngPong.pdb
+E:\PIngPong\PIngPong\bin\Debug\PIngPong.exe.config
+E:\PIngPong\PIngPong\bin\Debug\PIngPong.exe
+E:\PIngPong\PIngPong\bin\Debug\PIngPong.pdb
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.csprojAssemblyReference.cache
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.Form1.resources
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.Properties.Resources.resources
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.GenerateResource.cache
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.CoreCompileInputs.cache
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.exe
+E:\PIngPong\PIngPong\obj\Debug\PIngPong.pdb
+D:\PIngPong\PIngPong\bin\Debug\PIngPong.exe.config
+D:\PIngPong\PIngPong\bin\Debug\PIngPong.exe
+D:\PIngPong\PIngPong\bin\Debug\PIngPong.pdb
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.AssemblyReference.cache
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.Form1.resources
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.Properties.Resources.resources
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.GenerateResource.cache
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.CoreCompileInputs.cache
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.exe
+D:\PIngPong\PIngPong\obj\Debug\PIngPong.pdb
+D:\2 курс программы\PIngPong\PIngPong\bin\Debug\PIngPong.exe.config
+D:\2 курс программы\PIngPong\PIngPong\bin\Debug\PIngPong.exe
+D:\2 курс программы\PIngPong\PIngPong\bin\Debug\PIngPong.pdb
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.AssemblyReference.cache
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.Form1.resources
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.Properties.Resources.resources
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.GenerateResource.cache
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.CoreCompileInputs.cache
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.exe
+D:\2 курс программы\PIngPong\PIngPong\obj\Debug\PIngPong.pdb
